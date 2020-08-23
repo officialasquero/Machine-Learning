@@ -6,11 +6,25 @@ Introduction to Machine Learning - https://www.asquero.com/article/introduction-
 
 Applications of Machine Learning - https://www.asquero.com/article/applications-of-machine-learning
 
+Terminologies used in Machine Learning - https://www.asquero.com/article/terminologies-used-in-machine-learning
+
 Steps involved in a Learning System - https://www.asquero.com/article/steps-involved-in-a-learning-system
+
+Advantages and Disadvantages of Machine Learning - https://www.asquero.com/article/advantages-and-disadvantages-of-machine-learning
+
+Well Defined Learning Problem - https://www.asquero.com/article/well-defined-learning-problem
+
+Splitting Dataset in Machine Learning - https://www.asquero.com/article/splitting-dataset-in-machine-learning
+
+Classes of Problems in Machine Learning - https://www.asquero.com/article/classes-of-problems-in-machine-learning
+
+## Machine Learning Algorithms
 
 Supervised Learning - https://www.asquero.com/article/supervised-learning
 
 Unsupervised Learning - https://www.asquero.com/article/unsupervised-learning
+
+Differentiate between Supervised Learning and Unsupervised Learning - https://www.asquero.com/article/differentiate-between-supervised-learning-and-unsupervised-learning
 
 Association Rule Mining - https://www.asquero.com/article/association-rule-mining
 
@@ -20,19 +34,9 @@ Different Types of Machine Learning Algorithms - https://www.asquero.com/article
 
 Advantages and Disadvantages of different types of machine learning algorithms - https://www.asquero.com/article/advantages-and-disadvantages-of-different-types-of-machine-learning-algorithms
 
-Advantages and Disadvantages of Machine Learning - https://www.asquero.com/article/advantages-and-disadvantages-of-machine-learning
-
-Well Defined Learning Problem - https://www.asquero.com/article/well-defined-learning-problem
-
-Splitting Dataset in Machine Learning - https://www.asquero.com/article/splitting-dataset-in-machine-learning
-
-Terminologies used in Machine Learning - https://www.asquero.com/article/terminologies-used-in-machine-learning
-
-Classes of Problems in Machine Learning - https://www.asquero.com/article/classes-of-problems-in-machine-learning
+## Intermediate Level Concepts in Machine Learning
 
 Concept and Concept Learning - https://www.asquero.com/article/concept-and-concept-learning
-
-## Intermediate Level Concepts in Machine Learning
 
 Working of the find-S algorithm - https://www.asquero.com/article/working-of-the-find-s-algorithm
 
@@ -47,8 +51,6 @@ Inductive Bias in Machine Learning - https://www.asquero.com/article/inductive-b
 Inductive Learning Algorithm in Machine Learning - https://www.asquero.com/article/inductive-learning-algorithm-in-machine-learning
 
 Learning Algorithm used in Inductive Bias - https://www.asquero.com/article/learning-algorithm-used-in-inductive-bias
-
-Differentiate between Supervised Learning and Unsupervised Learning - https://www.asquero.com/article/differentiate-between-supervised-learning-and-unsupervised-learning
 
 ## Decision Trees in Machine Learning
 
